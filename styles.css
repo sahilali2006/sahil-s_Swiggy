@@ -347,8 +347,6 @@ html,body{
    }
 }
 
-
-
 .butone2{
    height: 100%;
    width: 20%;
@@ -416,9 +414,6 @@ html,body{
    }
 }
 
-
-
-
 .footer{
    background-color: #f0eeee;
    height: 450px;
@@ -427,12 +422,8 @@ html,body{
    color: rgba(0, 0, 0, 0.573);
    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    font-weight: 500;
-   
 
 }
-
-
-
 
 .one{
    height: 100%;
@@ -448,12 +439,7 @@ html,body{
 
       margin-top: 10px;
       text-align: center;
-   
-
 }
-
-
-
 .two{
    height: 100%;
    width: 15%;
@@ -473,9 +459,6 @@ html,body{
       font-size: 20px;
    }
 }
-
-
-
 .three{
    height: 100%;
    width: 15%;
