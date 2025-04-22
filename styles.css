@@ -232,7 +232,6 @@ html,body{
       overflow-x: auto; 
       white-space: nowrap;
       display: flex;
-      /* align-items: center; */
       color: rgb(16, 6, 6);     
    }
 
